@@ -16,3 +16,11 @@ Now when snakemake is activated with
 conda activate snakemake
 ```
 it will include salmon
+
+
+## Run snakemake
+
+```
+nohup snakemake --cores 20 --jobs 20 --cluster "sbatch -p nd_bioinformatics_cpu --mem-per-cpu=30G --ntasks=10"
+```
+
