@@ -3,7 +3,9 @@ run salmon as a snakemake pipeline, on create
 This code is here in Create: /scratch/prj/alstargets/HG38Salmon/snakemakeSalmon
 
 ## Prerequisites
-Salmon index, see my repo how to prepare it prepareSalmon
+Salmon index, see my repo how to prepare it here: <br>
+https://github.com/rkabiljo/prepareSalmon
+
 
 ## Install salmon
 I have added salmon to the snakemake conda environment
