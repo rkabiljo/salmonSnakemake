@@ -1,5 +1,6 @@
 # salmonSnakemake
 run salmon as a snakemake pipeline, on create
+This code is here in Create: /scratch/prj/alstargets/HG38Salmon/snakemakeSalmon
 
 ## Prerequisites
 Salmon index, see my repo how to prepare it prepareSalmon
