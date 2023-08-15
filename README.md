@@ -27,3 +27,6 @@ it will include salmon
 nohup snakemake --cores 20 --jobs 20 --cluster "sbatch -p nd_bioinformatics_cpu --mem-per-cpu=30G --ntasks=10"
 ```
 
+## Results
+On Create, the results are here: /scratch/prj/alstargets/HG38Salmon/quant
+
